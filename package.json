@@ -1,13 +1,17 @@
 {
   "name": "extractdeps",
   "version": "1.0.0",
-  "description": "",
+  "description": "Extract dependencies from a given package.json-file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:itinance/extractdeps"
+  },
+  "author": "Hagen Hübel",
+  "license": "MIT",
   "dependencies": {
     "co": "4.6.0",
     "commander": "2.11.0",
