@@ -1,6 +1,6 @@
 {
   "name": "extractdeps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract dependencies from a given package.json-file",
   "main": "index.js",
   "scripts": {
