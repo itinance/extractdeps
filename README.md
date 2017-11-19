@@ -2,7 +2,13 @@
 
 This command extracts all dependencies from a given `package.json`-file.
 
-Usage:
+## Installation
+
+```
+npm install -g extractdeps
+```
+
+## Usage:
 
 ```
 extractdeps path/to/package.json
